@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vipin
+- 👋 Hi, I’m Vipin
 - 👀 I’m interested in watching coders code
 - 🌱 I’m currently learning how coders are coding
 - 💞️ I’m looking to collaborate with coders to watch coding
